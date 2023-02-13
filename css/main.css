@@ -1,5 +1,10 @@
 body {
-  background: #dfe7ef;
+    background-image: url('https://github.com/IshiGamerKenDev/cc/blob/main/wp3684404.gif?raw=true');
+    border-radius: 0%;
+    background-size: cover;
+    height: 50vh;
+    padding: 0;
+    margin: 0;
   font-family: "Bitter", serif;
 }
 
@@ -32,7 +37,7 @@ body {
 }
 
 .player {
-  background: #eef3f7;
+  background: #4c5a64;
   width: 410px;
   min-height: 480px;
   box-shadow: 0px 15px 35px -5px rgba(50, 88, 130, 0.32);

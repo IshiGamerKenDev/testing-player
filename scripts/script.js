@@ -12,8 +12,8 @@ new Vue({
         {
           name: "Không Cần Cố  「Cukak Remix」",
           artist: "RPT MCK ft. tlinh",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "1.mp3",
+          cover: "https://github.com/IshiGamerKenDev/cc/blob/main/icegif-472.gif?raw=true",
+          source: "https://github.com/IshiGamerKenDev/cc/blob/main/mp3/1.mp3?raw=true",
           url: "https://www.youtube.com/watch?v=Kt9LIyQ1ntA&fbclid=IwAR0fp6xvKZX2WaN2TOgOiwMEMKoQ1nePmJm1JTwhDKIBDS3Lhcs0shgPFFE",
           favorited: false
         },
